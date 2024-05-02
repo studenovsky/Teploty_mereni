@@ -1,0 +1,6 @@
+teploty.txt, Jaroslav Studenovský, 7.E 
+Celkem bylo nalezeno 998765 teplot.
+Nejvyšší teplota byla 50.0
+Nejnižší teplota byla -50.0
+Průměrná záporná teplota byla -25.01252497669344
+Průměrná kladná teplota byla 25.028410195342506
